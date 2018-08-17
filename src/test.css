@@ -1,0 +1,66 @@
+.testclass{
+	
+}
+.uid{
+	width: 50%;
+	border: 1px solid #ebebeb;
+	margin:20px 0 20px 20px;
+	padding:20px 0;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+li a{color: #777;}
+.hc1{
+	text-align: right;
+}
+.hc1 li{
+	width: 120px;
+	padding: 2px 4px;
+	color: #555;
+	text-align: center;
+}
+.hc2{
+	text-align: right;
+}
+.ml-100{
+	margin-left: 100px;
+}
+.ml-150{
+	margin-left: 170px;
+}
+.hc2 li{
+	width: 120px;
+	padding: 2px 4px;
+	color: #555;
+	text-align: center;
+}
+.green{
+	    background: #28ff01;
+    padding: 0px 9px;
+    border-radius: 50%;
+    border: 2px solid #fc7373;
+}
+hr {
+    margin-top: 5px !important;
+    margin-bottom: 5px !important;
+    border: 0;
+    margin-left: 20px !important;
+    margin-right: 20px !important;
+    border-top: 1px solid #767676 !important;
+}
+.list-inline>li {
+  display: inline-block;
+  padding-right: 5px;
+  padding-left: 5px;
+}
+b, strong {
+  font-weight: 700 !important;
+}
+.hr-class{
+	margin-left: 0px !important;
+}
+.f-left{
+	float: left;
+}
+.f-left-w{
+	width: unset !important;float: left;
+}
